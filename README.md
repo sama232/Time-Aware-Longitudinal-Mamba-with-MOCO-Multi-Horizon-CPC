@@ -1,1 +1,1 @@
-# Time-Aware-Longitudinal-Mamba-with-MOCO-Multi-Horizon-CPC
+# Self-Supervised Longitudinal Chest X-Ray Severity Forecasting Using MoCo, Mamba, and Multi-Horizon Contrastive Predictive Coding
